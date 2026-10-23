@@ -1,6 +1,6 @@
 # Castle Wars — Python Strategy Game
 
-Castle Wars is a two-player strategy game developed in **Python using Pygame** as part of a university programming exam.
+Castle Wars is a two-player strategy game developed in **Python using Pygame** as part of a university programming exam. Most of the assets were downloaded from free libraries, but I then had to modify them/redraw them slightly differently in order to be adapted for the game.
 
 Players compete by managing resources, recruiting different types of units, defending their positions, and attacking their opponent's castle. The project involved implementing gameplay mechanics, a graphical interface, animations, and interactions between game entities.
 
@@ -8,9 +8,9 @@ Players compete by managing resources, recruiting different types of units, defe
 
 The completed version of Castle Wars received the **highest grade in the university programming exam** for which it was developed.
 
-Unfortunately, the final version of the code has been lost. This repository contains an earlier iteration, which may have unresolved bugs and gameplay issues.
+Unfortunately, the final version of the code has been lost. This repository contains an earlier iteration, which has unresolved bugs and gameplay issues.
 
-I've chosen to share this version because it demonstrates the skills I developed while building the game, particularly in object-oriented design, event-driven programming, and game-state management.
+I've chosen to share this version because it demonstrates the skills I developed while building the game, particularly in object-oriented design, event-driven programming, and game-state management. Also, it was a very fun project, and one day I'll sit down and properly look at it and fix it, for now, it is still mostly playable.
 
 ## Gameplay and Features
 
@@ -50,42 +50,6 @@ Castle Wars is designed for two players sharing the same keyboard. Its features 
    ```bash
    python cacace_project_castle_wars.py
    ```
-
-Alternatively, open the project in **PyCharm**, configure an interpreter with Pygame installed, and run `cacace_project_castle_wars.py` with the working directory set to the project folder.
-
-Keep the `assets` directory and all its subfolders alongside the Python files. Because this is an earlier iteration, some features may not work as intended.
-
-## Controls
-
-The game is designed for two players sharing a keyboard:
-
-| Action | Player 1 | Player 2 |
-|---|---|---|
-| Move character left/right | Left Ctrl / Left Alt | Left / Right arrows |
-| Recruit worker | C | B |
-| Recruit archer | Z | M |
-| Recruit knight | X | N |
-| Send workers to mine | Q | P |
-| Repair tower | W | O |
-| Repair wall | E | I |
-| Fire tower arrow | Space | Enter |
-
-Additional commands and interactions are implemented; some may behave differently in this earlier version.
-
-## Project Structure
-
-```text
-castle-wars/
-├── cacace_project_castle_wars.py
-├── constants_castle_wars.py
-├── assets/
-└── README.md
-```
-
-- `cacace_project_castle_wars.py` — main game implementation and entry point.
-- `constants_castle_wars.py` — constants and configuration values.
-- `assets/` — graphics, animations, and fonts.
-- `README.md` — project documentation.
 
 ## Technologies and Skills
 
