@@ -6,11 +6,9 @@ Players compete by managing resources, recruiting different types of units, defe
 
 ## Project Status
 
-The completed version of Castle Wars received the **highest grade in the university programming exam** for which it was developed.
+The completed version of Castle Wars something I was very proud of, but I forgot to upload it to Github right away, so here we are, 2 years later, and I have lost the file. I probably deleted while I was cleaning up my computer. Anyway, what that means is that this repository contains an earlier iteration, which has unresolved bugs and gameplay issues.
 
-Unfortunately, the final version of the code has been lost. This repository contains an earlier iteration, which has unresolved bugs and gameplay issues.
-
-I've chosen to share this version because it demonstrates the skills I developed while building the game, particularly in object-oriented design, event-driven programming, and game-state management. Also, it was a very fun project, and one day I'll sit down and properly look at it and fix it, for now, it is still mostly playable.
+I've chosen to share this version because it demonstrates the skills I developed while building the game, particularly in object-oriented design, event-driven programming, and game-state management. Also, it was a very fun project, and one day I'll find the time to sit down and properly look at it and fix it, for now, it is still mostly playable (if you squint).
 
 ## Gameplay and Features
 
